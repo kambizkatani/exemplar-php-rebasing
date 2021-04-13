@@ -52,5 +52,6 @@ Fork the repository below and follow the instructions. This time, once complete,
 [https://github.com/lineten/exemplar-workshop-git-rebase](https://github.com/lineten/exemplar-workshop-git-rebase)
 
 
-
+# dropping commits
+Mistakes happen, part of the code review should be to identity and potential errors or accidental disclosures that might happen during software development. This branch contains a commit that needs to be removed using the `drop` option, the remaining commits should be preserved using the `pick` option.
 
